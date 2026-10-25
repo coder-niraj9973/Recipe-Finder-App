@@ -10,7 +10,7 @@ function Navbar() {
         <Link to="/" className="font-serif font-bold text-xl text-accent">
           RecipeFinder
         </Link>
-       
+              
         <Link to="/" className="text-text hover:text-accent font-medium">
           Home
         </Link>
